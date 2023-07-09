@@ -20,7 +20,7 @@ const nowPlaying = "now_playing"
 const popular = "popular"
 const topRated = "top_rated"
 const disc = "discover"
-const recentlyAdded = "recently"
+
 
 
 
